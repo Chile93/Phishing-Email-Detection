@@ -1,0 +1,4 @@
+# Phishing-Email-Detection
+
+Phishing emails have become a significant threat to individuals and organizations worldwide. These deceptive emails aim to trick recipients into divulging sensitive information or performing harmful actions. Detecting and preventing phishing emails is crucial to safeguarding personal and financial security. In recent years, machine learning techniques have emerged as a promising approach to combat this growing menace. <br/> The dataset specifies the email text body the type of emails which can be used to detect phishing emails by extensive analytics of the email text and classifying those using machine learning. <br/>
+In this project, eight(8) models were compared, 4 ML models; Logistic Regression, Naive Bayes, Random Forest, and SVM. 4 DL model; LSTM, GRU CNN, and DistilBERT models.
